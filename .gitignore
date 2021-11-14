@@ -1,0 +1,8 @@
+config.json
+client.txt
+geckodriver.exe
+phones.txt
+pyenv.cfg
+sample.log
+test.py
+venv
