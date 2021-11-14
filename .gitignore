@@ -2,7 +2,7 @@ config.json
 client.txt
 geckodriver.exe
 phones.txt
-pyenv.cfg
+pyvenv.cfg
 sample.log
 test.py
 venv
